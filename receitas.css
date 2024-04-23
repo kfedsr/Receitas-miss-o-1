@@ -1,0 +1,76 @@
+div#div1{
+    display: flex; 
+}
+
+img{
+    width: 250px;
+    padding-top: 10px;
+}
+
+thead{
+    font-size: 25px;
+}
+
+td#td2{
+    text-align: left;
+    padding-left: 20px;
+    font-size: 20px;
+}
+
+table#tabela1{
+    background-color: rgb(245, 236, 158);
+    margin: 10px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+table#tabela2{
+    background-color: rgb(245, 236, 158);
+    margin: 10px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+table#tabela3{
+    background-color: rgb(245, 236, 158);
+    margin: 10px;
+    padding-top: 37px;
+    padding-bottom: 10px;
+}
+
+td#td4{
+    font-size: 20px;
+    max-inline-size: 1px;  
+}
+
+tfoot{
+    padding-top: 50px;
+}
+
+#linha{
+    width: 100%;
+    border-bottom: 2px solid #47837f;
+}
+
+
+p#para4{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+footer{
+    text-align:center;
+    font-weight: bold;
+    background-color: black;
+    padding: 20px 40px;
+    height: 20px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;  
+}
+
+
+
